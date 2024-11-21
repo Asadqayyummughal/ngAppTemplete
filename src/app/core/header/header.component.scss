@@ -1,0 +1,13 @@
+.header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    .nav-links{
+      display:flex;
+      cursor: pointer;
+      gap:1rem;
+    }
+  }
+  
